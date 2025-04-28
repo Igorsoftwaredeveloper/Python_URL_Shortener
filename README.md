@@ -1,1 +1,1 @@
-# Python_URL_Shortener
+python -m flask --app main run
